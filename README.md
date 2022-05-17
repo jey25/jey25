@@ -1,3 +1,2 @@
 
-
-1 day 1 commit
+Python, Javascript, HTML, CSS
